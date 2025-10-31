@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment / IDE
+.env
+.vscode/
+.idea/
+
+# Data files (optional to ignore large outputs)
+data/raw/*
+data/clean/*
+data/output/*
+
+# OS files
+.DS_Store
+Thumbs.db
