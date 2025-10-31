@@ -1,0 +1,4 @@
+requests>=2.31.0
+pandas>=2.1.0
+python-dateutil>=2.9.0
+tenacity>=8.2.3
