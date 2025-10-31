@@ -12,10 +12,7 @@ __pycache__/
 .vscode/
 .idea/
 
-# Data files (optional to ignore large outputs)
-data/raw/*
-data/clean/*
-data/output/*
+
 
 # OS files
 .DS_Store
